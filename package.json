@@ -1,0 +1,19 @@
+{
+  "name": "hello-world-pearlthoughts",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajaydabe/Hello-World-PearlThoughts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajaydabe/Hello-World-PearlThoughts/issues"
+  },
+  "homepage": "https://github.com/ajaydabe/Hello-World-PearlThoughts#readme",
+  "description": ""
+}
